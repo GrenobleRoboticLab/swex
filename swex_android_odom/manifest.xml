@@ -1,0 +1,16 @@
+<package>
+  <description brief="swex_android_odom">
+
+     swex_android_odom
+
+  </description>
+  <author>Xavier</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/swex_android_odom</url>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs" />
+  <depend package="swex_msgs" />
+</package>
+
+

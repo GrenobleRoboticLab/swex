@@ -1,0 +1,4 @@
+#ifndef HAARCASCADE_H
+#define HAARCASCADE_H
+
+#endif // HAARCASCADE_H

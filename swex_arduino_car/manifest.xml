@@ -1,0 +1,15 @@
+<package>
+  <description brief="swex_arduino_car">
+
+     swex_arduino_car
+
+  </description>
+  <author>Xavier</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/swex_arduino_car</url>
+  <depend package="roscpp" />
+  <depend package="std_msgs" />
+</package>
+
+
